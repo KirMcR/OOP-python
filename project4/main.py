@@ -53,24 +53,19 @@ class Karateka(Fighter,Mixin_Hit_And_Win):
         print("Каратист(ка) |Прозвище: {0} |Возраст: {1} |Страна: {2} |Вес: {3} |Пояс: {4} |".format(self.name, self.age, self.country, self.weight, self.color))
 
 
-class MetaKarateka(type):#мЕТА- КЛАСС
+class MetaFight(type):#мЕТА- КЛАСС
     # Метод hello
-    def hello(cls):
+    def sfight(cls):
         print("БОООЙ!!! НАЧИНАЕТСЯ!!!")
-     # Вызываем метакласс
     def __call__(self, *args, **kwargs):
-        # создаём новый класс как обычно
-        cls = type.__call__(self, *args)
-        # определяем новый метод hello для каждого из этих классов
-        setattr(cls, "hello", self.hello)
-
-        # возвращаем класс
-        return cls
+       cls = type.__call__(self, *args)
+       setattr(cls, "sfight", self.sfight)
+       return cls
 
 
-class Fight(metaclass=MetaKarateka):  #класс, отвечающий за описание самого поединка
+class Fight(metaclass=MetaFight):  #класс, отвечающий за описание самого поединка
     def greet(self):
-        self.hello()
+        self.sfight()
 
     def who_will_hit(self, f1, f2): #случайно определяет того, кто нанесёт урон и какой тип атаки совершит
         if randint(0, 1) == 0:
