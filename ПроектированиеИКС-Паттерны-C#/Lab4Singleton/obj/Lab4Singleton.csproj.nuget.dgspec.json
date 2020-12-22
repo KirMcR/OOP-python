@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\бродяга-симпотяга\\Desktop\\3курс\\проектирование ИКС\\отчеты\\patterns\\Lab4Singleton\\Lab4Singleton.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\бродяга-симпотяга\\Desktop\\3курс\\проектирование ИКС\\отчеты\\patterns\\Lab4Singleton\\Lab4Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\бродяга-симпотяга\\Desktop\\3курс\\проектирование ИКС\\отчеты\\patterns\\Lab4Singleton\\Lab4Singleton.csproj",
+        "projectName": "Lab4Singleton",
+        "projectPath": "C:\\Users\\бродяга-симпотяга\\Desktop\\3курс\\проектирование ИКС\\отчеты\\patterns\\Lab4Singleton\\Lab4Singleton.csproj",
+        "packagesPath": "C:\\Users\\бродяга-симпотяга\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\бродяга-симпотяга\\Desktop\\3курс\\проектирование ИКС\\отчеты\\patterns\\Lab4Singleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\бродяга-симпотяга\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

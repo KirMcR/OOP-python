@@ -1,0 +1,16 @@
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.exe
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.deps.json
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.runtimeconfig.json
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.runtimeconfig.dev.json
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.dll
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\ref\Lab1Adapter.dll
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\bin\Debug\net5.0\Lab1Adapter.pdb
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.csprojAssemblyReference.cache
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.AssemblyInfoInputs.cache
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.AssemblyInfo.cs
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.dll
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\ref\Lab1Adapter.dll
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.pdb
+C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns\Lab1Adapter\obj\Debug\net5.0\Lab1Adapter.genruntimeconfig.cache

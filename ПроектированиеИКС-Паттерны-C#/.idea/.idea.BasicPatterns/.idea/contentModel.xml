@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Electroducky\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Electroducky\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_BasicPatterns.-814432627.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Electroducky\ITMO\sem 5\patterns\BasicPatterns" t="IncludeFlat">
+      <e p="BasicPatterns.sln" t="IncludeFlat" />
+      <e p="Lab10Decorator" t="IncludeRecursive">
+        <e p="Audi.cs" t="Include" />
+        <e p="AutoBase.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConcreteOptions.cs" t="Include" />
+        <e p="DecoratorOptions.cs" t="Include" />
+        <e p="Lab10Decorator.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab10Decorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Renault.cs" t="Include" />
+      </e>
+      <e p="Lab1Adapter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Climate" t="Include">
+          <e p="CelsiusTemperatureSensor.cs" t="Include" />
+          <e p="ClimateControlSystem.cs" t="Include" />
+          <e p="FahrenheitTemperatureSensor.cs" t="Include" />
+          <e p="ITemperatureSensor.cs" t="Include" />
+          <e p="TemperatureSensorAdapter.cs" t="Include" />
+        </e>
+        <e p="Game" t="Include">
+          <e p="Coin.cs" t="Include" />
+          <e p="Dice.cs" t="Include" />
+          <e p="GameAdapter.cs" t="Include" />
+          <e p="Gamer.cs" t="Include" />
+          <e p="IGame.cs" t="Include" />
+        </e>
+        <e p="Lab1Adapter.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab1Adapter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lab2AbstractFactory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.cs" t="Include" />
+        <e p="Factory" t="Include">
+          <e p="AudiFactory.cs" t="Include" />
+          <e p="CarFactory.cs" t="Include" />
+          <e p="FordFactory.cs" t="Include" />
+        </e>
+        <e p="Lab2AbstractFactory.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab2AbstractFactory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lab3FactoryMethod" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab3FactoryMethod.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab3FactoryMethod.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TransportCompany.cs" t="Include" />
+        <e p="TransportService.cs" t="Include" />
+      </e>
+      <e p="Lab4Singleton" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Factory" t="Include">
+          <e p="AudiFactory.cs" t="Include" />
+          <e p="CarFactory.cs" t="Include" />
+          <e p="Client.cs" t="Include" />
+          <e p="FordFactory.cs" t="Include" />
+        </e>
+        <e p="Lab4Singleton.csproj" t="IncludeRecursive" />
+        <e p="Logger" t="Include">
+          <e p="Log.cs" t="Include" />
+          <e p="log.txt" t="Include" />
+          <e p="Operation.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab4Singleton.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lab5Strategy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab5Strategy.csproj" t="IncludeRecursive" />
+        <e p="Navigator" t="Include">
+          <e p="CarRouteStrategy.cs" t="Include" />
+          <e p="CyclingRouteStrategy.cs" t="Include" />
+          <e p="HikingRouteStrategy.cs" t="Include" />
+          <e p="NavigatorApp.cs" t="Include" />
+          <e p="PublicTransportRouteStrategy.cs" t="Include" />
+          <e p="RouteStategy.cs" t="Include" />
+          <e p="SightseeingRouteStrategy.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab5Strategy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Sorting" t="Include">
+          <e p="Bubble.cs" t="Include" />
+          <e p="Context.cs" t="Include" />
+          <e p="Insertion.cs" t="Include" />
+          <e p="Selection.cs" t="Include" />
+          <e p="SortStrategy.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Lab6TemplateMethod" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Drink" t="Include">
+          <e p="Coffee.cs" t="Include" />
+          <e p="HotDrink.cs" t="Include" />
+          <e p="Tea.cs" t="Include" />
+        </e>
+        <e p="Lab6TemplateMethod.csproj" t="IncludeRecursive" />
+        <e p="Math" t="Include">
+          <e p="ArithmeticProgression.cs" t="Include" />
+          <e p="GeometricProgression.cs" t="Include" />
+          <e p="Progression.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab6TemplateMethod.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lab7Facade" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Drive.cs" t="Include" />
+        <e p="Lab7Facade.csproj" t="IncludeRecursive" />
+        <e p="Microwave.cs" t="Include" />
+        <e p="Notification.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab7Facade.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Power.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lab8ChainOfResponsibility" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConcretePaymentHandler.cs" t="Include" />
+        <e p="Lab8ChainOfResponsibility.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab8ChainOfResponsibility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PaymentHandler.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Receiver.cs" t="Include" />
+      </e>
+      <e p="Lab9Command" t="IncludeRecursive">
+        <e p="ArithmeticUnit.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calculator.cs" t="Include" />
+        <e p="Command.cs" t="Include" />
+        <e p="ConcreteCommand.cs" t="Include" />
+        <e p="ControlUnit.cs" t="Include" />
+        <e p="Lab9Command.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Lab9Command.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

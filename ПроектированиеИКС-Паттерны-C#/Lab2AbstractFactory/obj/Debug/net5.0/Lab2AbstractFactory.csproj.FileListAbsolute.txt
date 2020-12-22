@@ -1,0 +1,16 @@
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.deps.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.runtimeconfig.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.runtimeconfig.dev.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\ref\Lab2AbstractFactory.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\bin\Debug\net5.0\Lab2AbstractFactory.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.csprojAssemblyReference.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.AssemblyInfo.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\ref\Lab2AbstractFactory.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\проектирование ИКС\отчеты\patterns\Lab2AbstractFactory\obj\Debug\net5.0\Lab2AbstractFactory.genruntimeconfig.cache

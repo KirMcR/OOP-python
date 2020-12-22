@@ -1,0 +1,88 @@
+
+Log Entry : 9:11:48 PM Friday, December 18, 2020
+Action: Метод Main()
+-------------------------------
+
+Log Entry : 9:11:48 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:11:48 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:11:59 PM Friday, December 18, 2020
+Action: Method Main()
+-------------------------------
+
+Log Entry : 9:11:59 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:11:59 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:14:12 PM Friday, December 18, 2020
+Action: Method Main()
+-------------------------------
+
+Log Entry : 9:14:12 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:14:12 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:22:51 PM Friday, December 18, 2020
+Action: Method Main()
+-------------------------------
+
+Log Entry : 9:22:51 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:22:51 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:23:35 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:23:35 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:25:08 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:25:08 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 9:25:20 PM Friday, December 18, 2020
+Action: Method Main()
+-------------------------------
+
+Log Entry : 9:25:20 PM Friday, December 18, 2020
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 9:25:20 PM Friday, December 18, 2020
+Action: Addition 30
+-------------------------------
+
+Log Entry : 21:42:21 22 декабря 2020 г.
+Action: Method Main()
+-------------------------------
+
+Log Entry : 21:42:21 22 декабря 2020 г.
+Action: Substraction 35
+-------------------------------
+
+Log Entry : 21:42:21 22 декабря 2020 г.
+Action: Addition 30
+-------------------------------
